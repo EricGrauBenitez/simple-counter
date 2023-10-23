@@ -1,0 +1,29 @@
+* {
+    margin: 20px;
+    margin-left: 40px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(1, 1, 23);
+}
+
+button {
+    border-radius: 10px; 
+    padding: 10px 20px; 
+    background-color: white; 
+    color: rgb(52, 52, 52); 
+    border: solid black 1px;
+    cursor: pointer; 
+  }
+
+  button:hover {
+    background-color: rgb(175, 175, 175); /* Cambia el color de fondo al pasar el cursor por encima */
+  }
+ 
+
+  div {
+    font-size: 40px;
+    color: rgb(50, 96, 50);
+    text-align: center;
+  }
